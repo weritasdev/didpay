@@ -1,7 +1,7 @@
 {
-  "recommendations": [
-    "Dart-Code.flutter",
-    "usernamehw.errorlens",
-    "redhat.vscode-yaml"
-  ]
+    "recommendations": [
+        "myml.vscode-markdown-plantuml-preview",
+        "esbenp.prettier-vscode",
+        "jebbs.plantuml"
+    ]
 }
